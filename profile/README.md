@@ -1,2 +1,2 @@
 # `deathlabs`
-We develop free and open-source software for the Cyber Defense, DevSecOps, and AI/ML communities. The skull logo was created by <a href="https://www.flaticon.com/free-icons/skull" title="skull icons">Freepik</a>.
+`deathlabs` was originally launched by a single developer ([@cyberphor](https://github.com/cyberphor)) focused on one sector of cyberspace: Detection Engineering And Threat Hunting (DEATH). Overtime, tooling to augment cloud native and AI/ML projects were added. Anyone is welcome to use the software nested under this organization (no corporate mothership is required). The skull logo was created by <a href="https://www.flaticon.com/free-icons/skull" title="skull icons">Freepik</a>.
