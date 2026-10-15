@@ -6,7 +6,6 @@
 | [`cookiecutter-copilotkit-langchain-fastmcp-django-postgres`](https://github.com/deathlabs/cookiecutter-copilotkit-langchain-fastmcp-django-postgres) | [![CI](https://github.com/deathlabs/cookiecutter-copilotkit-langchain-fastmcp-django-postgres/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/deathlabs/cookiecutter-copilotkit-langchain-fastmcp-django-postgres/actions/workflows/ci.yaml) |
 | [`cookiecutter-fastmcp`](https://github.com/deathlabs/cookiecutter-fastmcp) | [![CI](https://github.com/deathlabs/cookiecutter-fastmcp/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/deathlabs/cookiecutter-fastmcp/actions/workflows/ci.yaml) |
 | [`cookiecutter-react-fastapi-postgres`](https://github.com/deathlabs/cookiecutter-react-fastapi-postgres) | [![CI](https://github.com/deathlabs/cookiecutter-react-fastapi-postgres/actions/workflows/ci.yaml/badge.svg?branch=main)](https://github.com/deathlabs/cookiecutter-react-fastapi-postgres/actions/workflows/ci.yaml) |
-| [`deathlabs`](https://github.com/deathlabs/deathlabs) | No workflow |
 | [`dolores`](https://github.com/deathlabs/dolores) | [![CI](https://github.com/deathlabs/dolores/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/deathlabs/dolores/actions/workflows/check.yml) |
 | [`emu`](https://github.com/deathlabs/emu) | [![CI](https://github.com/deathlabs/emu/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/deathlabs/emu/actions/workflows/ci.yml) |
 | [`finch`](https://github.com/deathlabs/finch) | [![CI](https://github.com/deathlabs/finch/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/deathlabs/finch/actions/workflows/check.yml) |
@@ -21,4 +20,3 @@
 | [`sunshower`](https://github.com/deathlabs/sunshower) | [![CI](https://github.com/deathlabs/sunshower/actions/workflows/integrate.yaml/badge.svg?branch=main)](https://github.com/deathlabs/sunshower/actions/workflows/integrate.yaml) |
 | [`swordfish`](https://github.com/deathlabs/swordfish) | [![CI](https://github.com/deathlabs/swordfish/actions/workflows/check.yml/badge.svg?branch=main)](https://github.com/deathlabs/swordfish/actions/workflows/check.yml) |
 | [`wintermute`](https://github.com/deathlabs/wintermute) | [![CI](https://github.com/deathlabs/wintermute/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/deathlabs/wintermute/actions/workflows/ci.yml) |
-| [`yellowbirds`](https://github.com/deathlabs/yellowbirds) | No workflow |
