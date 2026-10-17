@@ -1,5 +1,5 @@
 # `deathlabs`
-`deathlabs` is not a corporate mothership. It was originally launched by a single developer ([@cyberphor](https://github.com/cyberphor)) focused on one sector of cyberspace: DEATH! More specifically, Detection Engineering And Threat Hunting. Therefore, most projects associated with `deathlabs` have some element of cyberspace defense. Tooling to augment cloud-native and AI/ML projects were added overtime. Anyone is welcome to use and contribute to the software nested under this GitHub organization. The skull logo was created by <a href="https://www.flaticon.com/free-icons/skull" title="skull icons">Freepik</a>.
+`deathlabs` is not a corporate mothership. It was originally launched by a single developer ([@cyberphor](https://github.com/cyberphor)) focused on one sector of cyberspace: DEATH! More specifically, Detection Engineering And Threat Hunting. Therefore, most projects associated with `deathlabs` support some element of cyberspace defense. Tooling to augment cloud-native and AI/ML projects were added overtime. Anyone is welcome to use and contribute to the software nested under this GitHub organization. The skull logo was created by <a href="https://www.flaticon.com/free-icons/skull" title="skull icons">Freepik</a>.
 
 | Project | Status |
 | --- | --- |
